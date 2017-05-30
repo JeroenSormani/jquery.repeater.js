@@ -9,7 +9,7 @@ jQuery( document ).ready( function() {
         addTrigger: '.repeater-add-row',
         removeTrigger: '.repeater-remove-row',
         template: '.repeater-template .repeater-row',
-        elementWrap: '.reviewer-row',
+        elementWrap: '.repeater-row',
         elementsContainer: '.repeater-rows',
     });
 });
